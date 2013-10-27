@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DAE6F95A-4472-4A3A-B28B-B723566EAA02</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SampleCustomUI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5F7F50D9-EDBC-40CF-B9E9-E1ED305DD8AF</key>
+		<string>https://github.com/Scringo/ScringoCustomizedSample-iOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SampleCustomUI.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5F7F50D9-EDBC-40CF-B9E9-E1ED305DD8AF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Scringo/ScringoCustomizedSample-iOS</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5F7F50D9-EDBC-40CF-B9E9-E1ED305DD8AF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5F7F50D9-EDBC-40CF-B9E9-E1ED305DD8AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ScringoCustomizedSample-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
