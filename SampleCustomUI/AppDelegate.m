@@ -28,7 +28,7 @@
     
     [self.window makeKeyAndVisible];
     
-    [Scringo initWithAppId:@"Ti48QWzUbBjCt9urv2PLxhOAGFTGzUL5" completion:nil];
+    [Scringo initWithAppId:@"YOUR_SCRINGO_APP_ID" completion:nil];
     
 //    [Scringo addSidebar:self.window toLeft:YES];
 //    [Scringo setTestMode:YES];
