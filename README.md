@@ -7,7 +7,7 @@ To make it work you need to:
 1. Download the sample.  
 2. Open with Xcode.  
 3. Replace @"YOUR SCRINGO APP ID" in __AppDelegate.m__ with your Scringo App Id (See below how to obtain it if you don't have one already).  
-4. If you're interested in Facebook integration, add your Facebook App Id in __SampleCustomUI-Info.plistt__ (See below how to do that).  
+4. If you're interested in Facebook integration, add your Facebook App Id in __SampleCustomUI-Info.plist__ (See below how to do that).  
 5. Run.  
 
 You can 'play' with __Scringo__'s customization by either modifying already implemented customization methods or adding new one in __SampleScringoStyleSheet.m__.
