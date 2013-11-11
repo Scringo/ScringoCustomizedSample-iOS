@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		366A7551181917DF0027E5BE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7550181917DF0027E5BE /* UIKit.framework */; };
-		366A7553181917DF0027E5BE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7552181917DF0027E5BE /* Foundation.framework */; };
 		366A7555181917DF0027E5BE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7554181917DF0027E5BE /* CoreGraphics.framework */; };
 		366A755B181917DF0027E5BE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 366A7559181917DF0027E5BE /* InfoPlist.strings */; };
 		366A755D181917DF0027E5BE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 366A755C181917DF0027E5BE /* main.m */; };
@@ -16,22 +15,8 @@
 		366A7563181917DF0027E5BE /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 366A7562181917DF0027E5BE /* Default.png */; };
 		366A7565181917DF0027E5BE /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 366A7564181917DF0027E5BE /* Default@2x.png */; };
 		366A7567181917DF0027E5BE /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 366A7566181917DF0027E5BE /* Default-568h@2x.png */; };
-		366A773C181918EF0027E5BE /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A772C181918EE0027E5BE /* Accounts.framework */; };
-		366A773D181918EF0027E5BE /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A772D181918EE0027E5BE /* AddressBook.framework */; };
-		366A773E181918EF0027E5BE /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A772E181918EE0027E5BE /* AdSupport.framework */; };
-		366A773F181918EF0027E5BE /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A772F181918EE0027E5BE /* AudioToolbox.framework */; };
-		366A7740181918EF0027E5BE /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7730181918EE0027E5BE /* CoreLocation.framework */; };
 		366A7741181918EF0027E5BE /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7731181918EE0027E5BE /* CoreText.framework */; };
-		366A7742181918EF0027E5BE /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7732181918EF0027E5BE /* libsqlite3.0.dylib */; };
 		366A7743181918EF0027E5BE /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7733181918EF0027E5BE /* MapKit.framework */; };
-		366A7744181918EF0027E5BE /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7734181918EF0027E5BE /* MessageUI.framework */; };
-		366A7745181918EF0027E5BE /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7735181918EF0027E5BE /* MobileCoreServices.framework */; };
-		366A7746181918EF0027E5BE /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7736181918EF0027E5BE /* QuartzCore.framework */; };
-		366A7747181918EF0027E5BE /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7737181918EF0027E5BE /* Security.framework */; };
-		366A7748181918EF0027E5BE /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7738181918EF0027E5BE /* Social.framework */; };
-		366A7749181918EF0027E5BE /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A7739181918EF0027E5BE /* StoreKit.framework */; };
-		366A774A181918EF0027E5BE /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A773A181918EF0027E5BE /* SystemConfiguration.framework */; };
-		366A774B181918EF0027E5BE /* Twitter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A773B181918EF0027E5BE /* Twitter.framework */; };
 		366A774D18191A820027E5BE /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 366A774C18191A820027E5BE /* FacebookSDK.framework */; };
 		366A775018191C9B0027E5BE /* MainTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 366A774F18191C9B0027E5BE /* MainTableViewController.m */; };
 		3688B4DA181A4C8900AA85E6 /* SampleScringoStyleSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 3688B4D9181A4C8900AA85E6 /* SampleScringoStyleSheet.m */; };
@@ -594,24 +579,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				366A773C181918EF0027E5BE /* Accounts.framework in Frameworks */,
-				366A773D181918EF0027E5BE /* AddressBook.framework in Frameworks */,
-				366A773E181918EF0027E5BE /* AdSupport.framework in Frameworks */,
-				366A773F181918EF0027E5BE /* AudioToolbox.framework in Frameworks */,
-				366A7740181918EF0027E5BE /* CoreLocation.framework in Frameworks */,
 				366A7741181918EF0027E5BE /* CoreText.framework in Frameworks */,
-				366A7742181918EF0027E5BE /* libsqlite3.0.dylib in Frameworks */,
 				366A7743181918EF0027E5BE /* MapKit.framework in Frameworks */,
-				366A7744181918EF0027E5BE /* MessageUI.framework in Frameworks */,
-				366A7745181918EF0027E5BE /* MobileCoreServices.framework in Frameworks */,
-				366A7746181918EF0027E5BE /* QuartzCore.framework in Frameworks */,
-				366A7747181918EF0027E5BE /* Security.framework in Frameworks */,
-				366A7748181918EF0027E5BE /* Social.framework in Frameworks */,
-				366A7749181918EF0027E5BE /* StoreKit.framework in Frameworks */,
-				366A774A181918EF0027E5BE /* SystemConfiguration.framework in Frameworks */,
-				366A774B181918EF0027E5BE /* Twitter.framework in Frameworks */,
 				366A7555181917DF0027E5BE /* CoreGraphics.framework in Frameworks */,
-				366A7553181917DF0027E5BE /* Foundation.framework in Frameworks */,
 				366A7551181917DF0027E5BE /* UIKit.framework in Frameworks */,
 				366A774D18191A820027E5BE /* FacebookSDK.framework in Frameworks */,
 				A9F7514F1820046F001E37B8 /* Scringo.framework in Frameworks */,
